@@ -42,6 +42,13 @@ body{
     align-items: center;
 }
 
+.text_dump{
+    width: 70%;
+    padding: 1rem;
+    height: auto;
+    overflow: auto;
+}
+
 /* Aesthetic */
 
 .pretty{
@@ -74,6 +81,9 @@ body{
     color: bisque;
 }
 
+.gen_header{
+    color: chocolate;
+}
 /* Text Specific */
 
 .t1{
